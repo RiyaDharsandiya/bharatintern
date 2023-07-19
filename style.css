@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('temp2.jpg'); /* Replace with your own image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 20px;
+  }
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-group {
+    margin-bottom: 10px;
+    padding: 10px;
+    
+  }
+  
+  label {
+    display: block;
+  }
+  
+  
+  
+  button{
+  color: black;
+    background-color: brown;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px ;
+    margin-top: 10px;
+  }
